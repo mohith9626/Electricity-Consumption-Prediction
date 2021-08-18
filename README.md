@@ -5,10 +5,12 @@ Prediction Using Machine Learning Models
 
 
 Data Preprocessing
+
 Electricity and Weather Data is loaded by using Pandas. Convert the time format in both the datas to EST, Rename Date & Time in weather data
 to time and merge the two data sets on the column time.
 
 Data Analysis
+
 Daily Consumption, Average Daily Consumption and Monthly Consumption were calculated for Analyzing the Data. From Average Daily Consumption and Monthly 
 Consumption we can find on which days and which month the Power consumption is high respectively and prevent the high consumption on those days and months
 in the future.
